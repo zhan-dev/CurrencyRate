@@ -1,1 +1,3 @@
 # CurrencyRate
+- HttpClient
+- Regex.Match
